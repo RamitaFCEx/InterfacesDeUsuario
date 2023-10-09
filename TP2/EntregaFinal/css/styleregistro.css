@@ -182,6 +182,8 @@
     place-items: center;
     justify-content: center;
     font-family: Roboto;
+    color: var(--fuente-clara);
+    margin-left: 5%;
 }
 .input {
     display: grid;

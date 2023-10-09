@@ -1,0 +1,152 @@
+
+.contenedorInformacion{
+    width: 95%; 
+    height: 60px; 
+    left: 4%; 
+    top: 19%; 
+    position: absolute;
+}
+.logos{
+    height: 49px;
+    width: 49px;
+}
+.contenedorLogo{
+    display: flex;
+    place-items: center;
+    justify-content: center;
+    width: 224px; 
+    height: 56.57px; 
+    left: 780px;
+    top: 0px; 
+    position: absolute; 
+    background-color:  var(--Principal, #FF9A48);
+}
+.logoFooter{
+    display: flex;
+    place-items: center;
+    justify-content: center;
+    left: 20px;
+    width: 148.98px;
+    left: 75.02px;
+    top: 10px; 
+    color: black;
+    font-size: 37px;
+    font-family: Rokkitt; 
+    font-weight: 800; 
+    word-wrap: break-word 
+}
+.contenedorRedes{
+    place-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    width: 200px; 
+    height: 121px; 
+    left: 1040px; 
+    top: 148px; 
+    position: absolute;
+}
+.redesLogos{
+    width: 20px;
+    height: 20px;
+}
+.contenedorContactos{
+    margin: 10px;
+    width: 340px;
+    height: 95px;
+    left: 358px;
+    top: 147px;
+    position: absolute;
+}
+.contacto{
+    position: absolute;
+    color: black;
+    font-size: 22px; 
+    font-family: Roboto; 
+    font-weight: 500; 
+    word-wrap: break-word;
+}
+.telefono{
+    margin: 1%;
+    width: 168px; 
+    height: 17px; 
+    left: 0px; 
+    top: 28px; 
+    position: absolute; 
+    color: black; 
+    font-size: 18px; 
+    font-family: Roboto; 
+    font-weight: 300; 
+    word-wrap: break-word;
+}
+.email{
+    width: 200px; 
+    height: 17px; 
+    left: 0px; 
+    top: 51px; 
+    position: absolute; 
+    color: black; 
+    font-size: 18px; 
+    font-family: Roboto; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.direccion{
+    left: 0px;
+    top: 74px;
+    position: absolute;
+    color: black;
+    font-size: 18px;
+    font-family: Roboto; 
+    font-weight: 300; 
+    word-wrap: break-word;
+}
+.parrafoFooter{
+    color: black; 
+    font-size: 24px;
+    font-family: Roboto;
+    font-weight: 400;
+    text-decoration: underline;
+    word-wrap: break-word
+}
+.redesSociales{
+    width: 181.33px;
+    left: 1.33px;
+    top: 0px;
+    position: absolute;
+    color: black;
+    font-size: 22px;
+    font-family: Roboto; 
+    font-weight: 600; 
+    word-wrap: break-word;
+}
+.instagramShuriken{
+    display: flex;
+    position: relative; 
+    width: 140px; 
+    top: 3px; 
+    right: 13%;
+    color: black; 
+    font-size: 18px; 
+    font-family: Roboto;    
+}
+.contenedorAcerca{
+    width: 100%; 
+    height: 56px; 
+    top: 311px; 
+    font-size: 25px;
+    position: absolute; 
+    justify-content: center; 
+    align-items: center; 
+    display: inline-flex; 
+}
+.footer {
+    width: 100%;  
+    height: 37%;
+    position: absolute; 
+    border: 1px black solid;
+    border: 1px solid #000;
+    background-color:  var(--Principal, #FF9A48);
+
+}
